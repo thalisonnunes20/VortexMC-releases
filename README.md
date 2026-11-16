@@ -16,8 +16,6 @@ Get the latest build for your operating system directly from the official releas
 
 ## Screenshots & Interface Walkthrough
 
-Add your interface screenshots to the `docs/screenshots/` folder to display them here:
-
 | Instance Management | Mod & Modpack Catalog |
 | :---: | :---: |
 | ![Instance Management](docs/screenshots/instances.png) | ![Mod & Modpack Catalog](docs/screenshots/catalog.png) |
