@@ -4,6 +4,37 @@ VortexMC is an independent, cross-platform Minecraft launcher for Windows and Li
 
 ---
 
+## Download
+
+Get the latest build for your operating system directly from the official releases page:
+
+- **Latest Release:** [Download Latest Version (All Platforms)](https://github.com/thalisonnunes20/VortexMC-releases/releases/latest)
+- **Windows (x64):** `VortexMC-v*-windows-x64.zip` (compressed package) or `VortexMC-v*-windows-x64.exe` (single standalone binary)
+- **Linux (x64):** `VortexMC-v*-linux-x64.tar.gz` (self-contained archive with required native libraries)
+
+---
+
+## Screenshots & Interface Walkthrough
+
+Add your interface screenshots to the `docs/screenshots/` folder to display them here:
+
+| Instance Management | Mod & Modpack Catalog |
+| :---: | :---: |
+| ![Instance Management](docs/screenshots/instances.png) | ![Mod & Modpack Catalog](docs/screenshots/catalog.png) |
+| *Manage and launch isolated Minecraft profiles independently* | *Discover and install mods and modpacks from CurseForge* |
+
+| Modpack Versioning & Downgrades | Dedicated Server Downloads |
+| :---: | :---: |
+| ![Version Manager](docs/screenshots/versions.png) | ![Server Files](docs/screenshots/server-files.png) |
+| *Switch between modpack versions preserving existing worlds* | *Download server.zip and server.jar packages with one click* |
+
+| Settings & Preferences | Account Management |
+| :---: | :---: |
+| ![Settings](docs/screenshots/settings.png) | ![Account](docs/screenshots/account.png) |
+| *Configure RAM, storage directory, themes, and language* | *Official Microsoft login or offline custom nickname* |
+
+---
+
 ## Features
 
 ### Independent Instance Management
@@ -69,15 +100,15 @@ VortexMC is an independent, cross-platform Minecraft launcher for Windows and Li
 ## Installation & Running
 
 ### Windows
-1. Download the latest `VortexMC-v1.0.0-windows-x64.zip` or `VortexMC-v1.0.0-windows-x64.exe` from Releases.
+1. Download the latest Windows package from the [Releases Page](https://github.com/thalisonnunes20/VortexMC-releases/releases/latest).
 2. If using the zip file, extract its contents to your preferred folder.
 3. Launch `VortexMC.exe`.
 
 ### Linux
-1. Download `VortexMC-v1.0.0-linux-x64.tar.gz` from Releases.
+1. Download the latest Linux archive from the [Releases Page](https://github.com/thalisonnunes20/VortexMC-releases/releases/latest).
 2. Extract the archive:
    ```bash
-   tar -xzvf VortexMC-v1.0.0-linux-x64.tar.gz
+   tar -xzvf VortexMC-v*-linux-x64.tar.gz
    ```
 3. Grant execution permissions:
    ```bash
